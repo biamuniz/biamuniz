@@ -2,7 +2,7 @@
 <img align="right" width="250" height="250" src="https://cloudrun.co.uk/wp-content/uploads/2021/01/cat.png">
 
 
-- 🎲 Faço estágio em jornalismo de dados na [Agência Pública de Jornalismo Investigativo](https://apublica.org/)    
+- 🎲 Analista de dados na [Agência Pública de Jornalismo Investigativo](https://apublica.org/)    
 - 👩🏿‍🔬 Sou biomédica formada pela Unifesp e pesquiso no meu mestrado uma relação entre comportamentos sociais e de consumo em um modelo animal para o estudo da esquizofrenia
 - 📰 Também estudo jornalismo na ECA-USP 🦁
 - 🤖 Curso ainda o Master em Jornalismo de Dados, Automação e Data Storytelling no Insper
