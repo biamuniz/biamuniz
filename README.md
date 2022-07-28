@@ -5,7 +5,7 @@
 - 🎲 Analista de dados na [Agência Pública de Jornalismo Investigativo](https://apublica.org/)    
 - 👩🏿‍🔬 Sou biomédica formada pela Unifesp e pesquiso no meu mestrado uma relação entre comportamentos sociais e de consumo em um modelo animal para o estudo da esquizofrenia
 - 📰 Também estudo jornalismo na ECA-USP 🦁
-- 🤖 Curso ainda o Master em Jornalismo de Dados, Automação e Data Storytelling no Insper
+- 🤖 Especialista em Jornalismo de Dados, Automação e Data Storytelling no Insper
 - 👩🏿‍💻 Estou aprendendo Python e R e tenho interesse em técnicas de OSINT
 - 🌧 Gosto muito de dias chuvosos
 - 😄 Pronomes: Ela/dela
