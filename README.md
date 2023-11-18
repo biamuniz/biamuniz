@@ -1,5 +1,5 @@
 ## Oi! Eu sou a Bianca e mexo com dados, desenho, ciência e jornalismo
-<img align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif">
+<img align="right" width="300" height="300" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif>
 
  
 - 🎲 Repórter de dados na Agência Pública de Jornalismo Investigativo
