@@ -4,10 +4,9 @@
  
 - 🎲 Repórter de dados na Agência Pública de Jornalismo Investigativo
 - 👩🏿‍🔬 Sou biomédica e mestre em Ciências formada pela Unifesp
-- 📰 Jornalista pela ECA-USP 🦁 com um período de intercâmbio em Empreendedorismo e Inovação na The University of Texas at Austin
+- 📰 Jornalista pela ECA-USP 🦁
 - 🤖 Especialista em Jornalismo de Dados, Automação e Data Storytelling no Insper
 - 👩🏿‍💻 Estou aprendendo Python e R e tenho interesse em técnicas de OSINT
-- 🌧 Gosto muito de dias chuvosos
 - ✊🏿 Defendo o conhecimento aberto, democrático e acessível
 
 
