@@ -1,30 +1,5 @@
 ## Oi! Eu sou a Bianca e mexo com dados, desenho, ciência e jornalismo
-<img align="right" width="300" height="300" src="https://media.giphy.com/media/LWJ7cKyiWPCnVyuAhT/giphy.gif">
-
- 
-- 🎲 Repórter de dados na Agência Pública de Jornalismo Investigativo
-- 👩🏿‍🔬 Sou biomédica e mestre em Ciências formada pela Unifesp
-- 📰 Jornalista pela ECA-USP 🦁
-- 🤖 Especialista em Jornalismo de Dados, Automação e Data Storytelling no Insper
-- 👩🏿‍💻 Estou aprendendo Python e R e tenho interesse em técnicas de OSINT
-- ✊🏿 Defendo o conhecimento aberto, democrático e acessível
 
 
-#### 💬 Vamos conversar? Me chama no [twitter](https://twitter.com/biancamuniz__/) :)
-<p align="left">
-  <a href= "https://github.com/biamuniz/">
-    <img src="https://img.icons8.com/ios-filled/30/9B59B6/github.png"/>
-  </a>
-  <a href= "https://www.linkedin.com/in/bmuniz/">
-    <img src="https://img.icons8.com/material-outlined/30/9B59B6/linkedin.png"/>
-  </a>
-  <a href= "https://twitter.com/biancamuniz__">
-    <img src="https://img.icons8.com/material-outlined/30/9B59B6/twitter.png"/>
-  </a>
-  <a href="mailto:biancamuniz@usp.br">
-    <img src="https://img.icons8.com/ios-filled/30/9B59B6/email.png"/>
-  </a>
-  
-  
- ---
-</p>
+<img align="center" width="500" height="500" src="https://media.giphy.com/media/LWJ7cKyiWPCnVyuAhT/giphy.gif">
+
