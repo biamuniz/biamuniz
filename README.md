@@ -1,8 +1,1 @@
-## Oi! Eu sou a Bianca e mexo com dados, desenho, ciência e jornalismo
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biamuniz&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biamuniz&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biamuniz&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=biamuniz&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=biamuniz&theme=aura_dark&utcOffset=8)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&weight=600&size=40&duration=2000&pause=100&color=FF7271&multiline=true&width=600&height=400&lines=me+chamo+Bianca+e+mexo+com%3A;dados;ci%C3%AAncia;desenho;jornalismo;croch%C3%AA)](https://git.io/typing-svg)
