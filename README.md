@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&weight=600&size=40&duration=2000&pause=100&color=FF7271&multiline=true&width=600&height=400&lines=me+chamo+Bianca+e+mexo+com%3A;dados;ci%C3%AAncia;desenho;jornalismo;croch%C3%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=monospace&weight=800&size=40&duration=2000&pause=100&color=0243A4&multiline=true&width=1000&height=320&lines=me+chamo+Bianca+e+mexo+com%3A;dados;ci%C3%AAncia;desenho;jornalismo;nanquim;croch%C3%AA)](https://git.io/typing-svg)
